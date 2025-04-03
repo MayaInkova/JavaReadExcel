@@ -39,7 +39,7 @@ public class ExcelWriter {
 
         // Пълен път до Excel файла
         String filePath = "D:/Excel/products.xlsx";
-        
+
         // Записваме в Excel файла
         try (FileOutputStream fileOut = new FileOutputStream(filePath)) {
             workbook.write(fileOut);

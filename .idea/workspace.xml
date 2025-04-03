@@ -48,7 +48,6 @@
     "Application.ExcelReader.executor": "Run",
     "Application.ExcelWriter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/IdeaProjects",
     "onboarding.tips.debug.path": "D:/JavaReadExcel/src/main/java/org/example/Main.java",
